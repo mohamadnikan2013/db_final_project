@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="a7f77ec7-6541-4c24-9269-6bff65624c8d">
+      <user-name>nikan</user-name>
+      <user-password>dfc4dfc3dfc1dfc1dfc3df98df9adf9bdf99</user-password>
+      <introspection-scope>db_final:nikan,pg_catalog,public</introspection-scope>
+      <resolve-scope>db_final:nikan,public</resolve-scope>
+    </data-source>
+  </component>
+</project>
